@@ -21,12 +21,17 @@ Passionate about building systems in these areas:
 
 ## Experience
 
-#### _Senior Software Engineer &mdash; Backend_ | Passio, Menlo Park | 12/2020-2/2021
+#### _Senior Software Engineer &mdash; Backend_ | Lark Health, Mountain View, CA | 4/2021-
+
+* Designed and built micro-services for on-boarding partners to allow patients to order health devices in the Lark app
+* Created database models for new backend services
+
+#### _Senior Software Engineer &mdash; Backend_ | Passio, Menlo Park, CA | 12/2020-2/2021
 
 * Enhanced and redesigned ingestion pipeline of multimedia data for Edge AI solutions
 * Enhanced backend APIs
 
-#### _Senior Software Engineer &mdash; Data platform_ | Lacework, San Jose | 6/2020-11/2020
+#### _Senior Software Engineer &mdash; Data platform_ | Lacework, San Jose, CA | 6/2020-11/2020
 
 * Enhanced query processing feature for the cloud security data pipeline
 
@@ -37,7 +42,7 @@ Passionate about building systems in these areas:
 * Worked on the implementation of the state store and ledger
 * Patents
 
-#### _Tech Lead &mdash; Cloud telemetry and log analytics_ | Cisco, San Jose | 2014-2018
+#### _Tech Lead &mdash; Cloud telemetry and log analytics_ | Cisco, San Jose, CA | 2014-2018
 
 * [Cisco Zeus](https://d1nmyq4gcgsfi5.cloudfront.net/site/zeus/) &mdash; Database backend programming, built BI reports and tools, telemetry & logs crunching with Kafka, Storm, Cassandra
 * [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform) &mdash; Built infrastructure to capture telemetry & logs
@@ -49,7 +54,7 @@ Passionate about building systems in these areas:
 * Designed and built backend infrastructure for processing and metrics/time-series data
 * Patents
 
-#### _Senior Software Engineer &mdash; Real-time analytics_ | Cisco, San Jose | 2012-2014
+#### _Senior Software Engineer &mdash; Real-time analytics_ | Cisco, San Jose, CA | 2012-2014
 
 * Cisco Connected Streaming Analytics (CSA) &mdash; Stream engine programming in C
 * Customer PoCs with Cisco CSA
@@ -74,13 +79,13 @@ Passionate about building systems in these areas:
 * Built PostgreSQL database kernel features for real-time stream processing such as sessionization
 * **Acquired by Cisco** in 2012
 
-#### _Senior Software Engineer &mdash; RFID data management & BI_ | IBM Silicon Valley Lab, San Jose | 2006-2009
+#### _Senior Software Engineer &mdash; RFID data management & BI_ | IBM Silicon Valley Lab, San Jose, CA | 2006-2009
 
 * IBM RFID Information Center &mdash; Database backend and middleware programming in Java
 * IBM Cognos &mdash; Data governance in data warehouses, SQL query optimization
 * Patents & publications
 
-#### _Post-doctoral Scientist &mdash; Data privacy technology_ | IBM Almaden Research Center, San Jose | 2004-2006
+#### _Post-doctoral Scientist &mdash; Data privacy technology_ | IBM Almaden Research Center, San Jose, CA | 2004-2006
 
 * Hippocratic Database &mdash; Enforcing privacy policies in relational database (DBMS agnostic)
 * Graph databases &mdash; Privacy technology for large multi-media streams
