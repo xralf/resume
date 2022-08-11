@@ -4,7 +4,7 @@
 
 ## Summary
 
-Passionate about building systems in these areas:
+Passionate about building systems involving:
 
 - **Databases / SQL**
 - **Data streams / Real-time analytics**
@@ -19,12 +19,21 @@ Passionate about building systems in these areas:
 - Inventing
 - Research
 
+## Languages
+
+* Golang (highly preferred)
+* Python
+* Java
+* C/C++
+* SQL
+* Experience with R
+
 ## Experience
 
 #### _Senior Software Engineer &mdash; Backend_ | Lark Health, Mountain View, CA | 4/2021-
 
-* Designed and built micro-services for on-boarding partners to allow patients to order health devices in the Lark app
-* Created database models for new backend services
+* Designed and built micro-services in Golang for on-boarding partners to allow patients to order health devices in the Lark app
+* Created relational and no-SQL database models for new backend services
 
 #### _Senior Software Engineer &mdash; Backend_ | Passio, Menlo Park, CA | 12/2020-2/2021
 
@@ -33,13 +42,13 @@ Passionate about building systems in these areas:
 
 #### _Senior Software Engineer &mdash; Data platform_ | Lacework, San Jose, CA | 6/2020-11/2020
 
-* Enhanced query processing feature for the cloud security data pipeline
+* Enhanced query processing feature for the cloud security data pipeline using Java
 
 #### _Tech Lead &mdash; Blockchain platform_ | Cisco, San Jose | 2018-9/2019
 
-* [Cisco Blockchain](https://developer.cisco.com/blockchain) &mdash; Platform backend programming
+* [Cisco Blockchain](https://developer.cisco.com/blockchain) &mdash; Platform backend programming in Golang
 * Designed, built, and delivered industry-first DLT platform features, e.g., services to enable role-based information disclosure (field-level RBAC security)
-* Worked on the implementation of the state store and ledger
+* Worked on the implementation of the state store and ledger in Golang
 * Patents
 
 #### _Tech Lead &mdash; Cloud telemetry and log analytics_ | Cisco, San Jose, CA | 2014-2018
@@ -146,15 +155,6 @@ According to LindedIn endorsements ...
 * Distributed Systems
 * Software Development
 * Software Engineering
-
-## Languages
-
-* C/C++
-* Golang (preferred)
-* Java
-* Python
-* SQL
-* Experience with R
 
 ## Patents & Disclosures
 
