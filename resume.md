@@ -30,10 +30,10 @@ Passionate about building systems involving:
 
 ## Experience
 
-#### _Senior Software Engineer &mdash; Backend_ | Lark Health, Mountain View, CA | 4/2021-
+#### _Senior Software Engineer &mdash; Backend_ | Lark Health, Mountain View, CA | 4/2021-7/2022
 
 * Designed and built micro-services in Golang for on-boarding partners to allow patients to order health devices in the Lark app
-* Created relational and no-SQL database models for new backend services
+* Created relational and no-SQL database models for new backend services (MySQL, DynamoDB)
 
 #### _Senior Software Engineer &mdash; Backend_ | Passio, Menlo Park, CA | 12/2020-2/2021
 
@@ -67,9 +67,10 @@ Passionate about building systems involving:
 
 * Cisco Connected Streaming Analytics (CSA) &mdash; Stream engine programming in C
 * Customer PoCs with Cisco CSA
-* ML algorithms integration into real-time analytics pipeline
+* ML algorithms integration into real-time analytics pipeline, algorithms were written in R
 * Edge and fog computing &mdash; Analytics for IoT (retail, stadiums)
 * Delivered customer solutions based on Connected Streaming Analytics based with machine learning
+* Collaborated with large retail customer on store optimization problems (using lots of sensor technology)
 * Predicted and optimized retail shopper checkout queues
 * Optimized retail store layout based on purchase patterns and shopper tracking
 * Integrated machine learning algorithms into stream database queries using R and user-defined-functions
