@@ -12,14 +12,14 @@ Passionate about building systems involving:
 - **Data streams / Real-time analytics**
 - **Cloud security**
 - **Blockchain / DLT**
-- **ML / Analytics / OLAP**
+- **Analytics / ML / AI**
 - **Distributed systems**
 
 ... and working with great people to build game-changing software platforms and solutions by
 
 - Programming
 - Inventing
-- Research
+- Researching
 
 ## Languages
 
@@ -27,10 +27,16 @@ Passionate about building systems involving:
 * Python
 * Java
 * C/C++
+* TypeScript
 * SQL
 * Experience with R
 
 ## Experience
+
+#### _Senior Software Engineer | Tradewing, San Francisco, CA | 9/2023-6/2024
+
+* Designed and built customer-facing SaaS services for association management, such as payment information integration or event registration
+* Designed no-SQL data models and ETL services
 
 #### _Senior Software Engineer &mdash; Backend_ | Lark Health, Mountain View, CA | 4/2021-7/2022
 

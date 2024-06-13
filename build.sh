@@ -1,5 +1,14 @@
 #! /usr/bin/env bash
 
+##
+## Install markdow module:
+##
+# mkdir ~/pyenv/foo
+# python3 -m venv ~/pyenv/foo
+# source ~/pyenv/foo/bin/activate
+# python3 -m pip install markdown
+# ./buid.sh
+
 # for f in *.md
 # do
 #   echo $f
