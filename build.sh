@@ -7,6 +7,13 @@
 # python3 -m venv ~/pyenv/foo2
 # source ~/pyenv/foo2/bin/activate
 # python3 -m pip install markdown
+
+## Next time, just activate existing virtual environment as follows:
+# cd ~/pyenv/foo
+# pipenv shell
+# cd ~/git/xralf/resume
+# python3 -m pip install markdown
+
 # ./build.sh
 # open resume.html
 # <print ... save ad PDF ... proint without headers and footers>

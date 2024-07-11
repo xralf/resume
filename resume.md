@@ -4,50 +4,57 @@
 
 [github.com/xralf/resume](http://github.com/xralf/resume)
 
-## Summary
+## Objective
 
-Passionate about building systems involving:
+Find a position where I will design and build products and services involving:
 
-- **Databases / SQL**
-- **Data streams / Real-time analytics**
-- **Cloud security**
-- **Blockchain / DLT**
-- **Analytics / ML / AI**
 - **Distributed systems**
+- **Databases / SQL / NoSQL**
+- **Real-time analytics / AI**
+- **Blockchain / DLT**
+- **Cloud security**
 
-... and working with great people to build game-changing software platforms and solutions by
+## Ongoing personal projects (written in **Golang**)
 
-- Programming
-- Inventing
-- Researching
+### Redleg: A privacy-preserving blockchain ledger
 
-## Languages
+- Goal: Evolve Redleg into a temporal No-SQL database system
 
-- Golang (highly preferred)
+### Grizzly: A data stream query processor for real-time analytics
+
+- [https://github.com/xsnout/grizzly](https://github.com/xsnout/grizzly)
+- Aggregations and stochastic algorithms
+- Uses Capn'n Proto, ANTRL4
+
+## Favorite languages
+
+- **Golang** (highly preferred)
+- SQL
 - Python
 - Java
 - C/C++
 - TypeScript
-- SQL
-- Experience with R, GraphQL, a bunch of No-SQL query languages
+- Experience with R, GraphQL, several No-SQL query languages
 
-## Experience
+## Tools
+
+- PostgreSQL, MySQL, DB2, MongoDB, DynamoDB, Cassandra, Kafka, and more
+- Snowflake, BigTable, Cognos, other analytics tools
+- SaaS project management tools like Jira, Notion
+- AWS, GCP services (S3, Lambda, etc.)
+
+## Work experience
 
 #### _Senior Software Engineer_ | Tradewing, San Francisco, CA | 9/2023-6/2024
 
 - Designed and built customer-facing SaaS services for association management, such as payment information integration (e.g., Stripe) or event registration
-- Designed no-SQL data models and ETL services
+- Designed no-SQL data models and ETL workflows to migrate customer data
 
 #### _Senior Software Engineer &mdash; Backend_ | Lark Health, Mountain View, CA | 4/2021-7/2022
 
-- Designed and built micro-services in Golang for on-boarding partners to allow patients to order health devices in the Lark app
+- Designed and built micro-services in Golang for on-boarding partners to allow patients to order health devices in the Lark app in **Golang**
 - Created relational and no-SQL database models for new backend services (MySQL, DynamoDB)
 - Deployments using Docker & Kubernetes
-
-#### _Senior Software Engineer &mdash; Backend_ | Passio, Menlo Park, CA | 12/2020-2/2021
-
-- Enhanced and redesigned ingestion pipeline of multimedia data for Edge AI solutions
-- Enhanced backend APIs
 
 #### _Senior Software Engineer &mdash; Data platform_ | Lacework, San Jose, CA | 6/2020-11/2020
 
@@ -55,7 +62,7 @@ Passionate about building systems involving:
 
 #### _Tech Lead &mdash; Blockchain platform_ | Cisco, San Jose | 2018-9/2019
 
-- [Cisco Blockchain](https://developer.cisco.com/blockchain) &mdash; Platform backend programming in Golang
+- [Cisco Blockchain](https://developer.cisco.com/blockchain) &mdash; Platform backend programming in **Golang**
 - Designed, built, and delivered industry-first DLT platform features, e.g., services to enable role-based information disclosure (field-level RBAC security)
 - Worked on the implementation of the state store and ledger in Golang
 - Deployments using Docker & Kubernetes
